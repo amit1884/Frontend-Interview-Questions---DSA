@@ -13,7 +13,7 @@ class LRUCache{
 
     setItem(item){
         const itemIndex=this.getItem(item)
-        if(indexOf===-1){
+        if(itemIndex===-1){
             if(this.isCacheFull()){
                 this.cache.pop()
                 this.cache.unshift(item)
@@ -28,7 +28,7 @@ class LRUCache{
     }
 }
 
-let cache=LRUCache(4)
+let cache=new LRUCache(4)
 cache.setItem(10)
 cache.setItem(20)
 cache.setItem(10)
