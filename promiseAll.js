@@ -1,4 +1,4 @@
-Array.prototype.myPromiseAll=function(promises){
+Promise.prototype.myPromiseAll=function(promises){
     let result=[]
     let counter=0
     return new Promise((resolve,reject)=>{
