@@ -1,3 +1,7 @@
+// ********* EBay OA Question ************
+
+
+
 // Given an array of integers, replace all the elements of the array with the sum of its digit, keep repeating this until all becomes single digit.
 // When all element becomes single digit, return the max reating integer from the array. Incase of tie, return the greater element.
 

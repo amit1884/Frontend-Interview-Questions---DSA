@@ -1,3 +1,8 @@
+// ********* EBay OA Question ************
+
+
+
+
 // ======= Input =======
 
 // paragraphs: an array, each element is an array of words representing a paragraph.

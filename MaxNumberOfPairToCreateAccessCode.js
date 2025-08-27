@@ -1,3 +1,5 @@
+// ********* EBay OA Question ************
+
 // You have an array of integers (example: [1, 2, 3, 4]).
 
 // You have an access code (example: 1234).

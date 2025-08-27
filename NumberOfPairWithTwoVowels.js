@@ -1,3 +1,7 @@
+// ********* EBay OA Question ************
+
+
+
 // You want to count the number of substrings of length 3 that contain exactly 2 vowels.
 
 
